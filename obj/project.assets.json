@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roryr\\crazy\\Rory\\Rory.csproj",
+      "projectUniqueName": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\Rory.csproj",
       "projectName": "Rory",
-      "projectPath": "C:\\Users\\roryr\\crazy\\Rory\\Rory.csproj",
+      "projectPath": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\Rory.csproj",
       "packagesPath": "C:\\Users\\roryr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roryr\\crazy\\Rory\\obj\\",
+      "outputPath": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
